@@ -3,3 +3,4 @@
      print("even number")
  else:
      print("odd number")
+     print("its odd number if not satisfy condition")     

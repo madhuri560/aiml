@@ -1,0 +1,7 @@
+switch(c)
+{
+case 1:
+{
+printf("Btech AIML")
+break;
+}
