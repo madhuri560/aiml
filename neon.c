@@ -16,4 +16,10 @@ int Check_Neon_Number(int num)
     else
         return 0; // If condition is false.
 }
+int main() 
+{ 
+    int num = 9;  
+    int ans = Check_Neon_Number(num); 
+    if (ans == 1)  
+        printf("true");
 
