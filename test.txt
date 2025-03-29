@@ -17,3 +17,10 @@ learning, reasoning, problem-solving, perception, and decision-making.
  generative and creative tools (e.g., ChatGPT and AI art); 
  and superhuman play and analysis in strategy games (e.g., chess and Go).
  However, many AI applications are not perceived as AI: "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore."
+ AI and machine learning technology is used in most of the essential applications of the 2020s, including: search engines (such as Google Search),
+ targeting online advertisements, recommendation systems (offered by Netflix, YouTube or Amazon),
+ driving internet traffic, targeted advertising (AdSense, Facebook), virtual assistants (such as Siri or Alexa),
+ autonomous vehicles (including drones, ADAS and self-driving cars),
+ automatic language translation (Microsoft Translator, Google Translate), 
+ facial recognition (Apple's Face ID or Microsoft's DeepFace and Google's FaceNet
+ ) and image labeling (used by Facebook, Apple's iPhoto and TikTok). The deployment of AI may be overseen by a Chief automation officer (CAO).
