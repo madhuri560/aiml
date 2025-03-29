@@ -29,3 +29,8 @@ void printFib(int n) {
         printf("%d ", curr);
     }
 }
+int main() {
+    int n = 9;
+    printFib(n);
+    return 0;
+}
