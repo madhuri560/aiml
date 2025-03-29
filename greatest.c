@@ -7,3 +7,8 @@ else {
         if (b >= c)
             printf("%d is the largest number.", b);
         else
+		printf("%d is the largest number.", c);
+    }
+
+    return 0;
+}
