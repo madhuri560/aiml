@@ -11,3 +11,9 @@ int Check_Neon_Number(int num)
         sum = sum + digit;
         n = n / 10;
     }
+     if (sum == num)
+        return 1; // If condition is true.
+    else
+        return 0; // If condition is false.
+}
+
