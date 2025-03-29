@@ -6,3 +6,10 @@ def fib(n):
 n=int(input("enter no of terms"))
 c=fib(c)
 print(c)
+
+
+
+#include<stdio.h>
+void printFib(int n) {
+    if (n < 1) {
+        printf("Invalid Number of terms\n");
