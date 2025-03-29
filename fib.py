@@ -13,3 +13,7 @@ print(c)
 void printFib(int n) {
     if (n < 1) {
         printf("Invalid Number of terms\n");
+          return;
+    }
+    int prev1 = 1;
+    int prev2 = 0;
