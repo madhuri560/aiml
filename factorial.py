@@ -21,3 +21,7 @@ The factorial of a non-negative integer ( n ), denoted as ( n! ), is the product
 int main()
 {
     int num = 5;
+     printf("Factorial of %d is %d", num, factorial(num));
+    return 0;
+}
+
