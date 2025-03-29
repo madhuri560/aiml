@@ -22,4 +22,7 @@ int main()
     int ans = Check_Neon_Number(num); 
     if (ans == 1)  
         printf("true");
-
+else
+        printf("false"); 
+    return 0; 
+}
