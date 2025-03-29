@@ -1,5 +1,6 @@
 #include<stdio.h>
-int largestPower(int n, int p) {
+{
+	int largestPower(int n, int p) {
   
     if (n == 0) 
         return 0;
@@ -9,5 +10,6 @@ int main() {
     int n = 10, p = 3;
      printf("%d", largestPower(n, p));
     return 0;
+}
 }
 
