@@ -7,3 +7,9 @@ for i in range(1,n+1):
 
 Factorial number
 The factorial of a non-negative integer ( n ), denoted as ( n! ), is the product of all positive integers less than or equal to ( n ).
+
+#include<stdio.h>
+{
+        int main()
+        {
+            int n=5;
