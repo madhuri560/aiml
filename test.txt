@@ -6,3 +6,6 @@ BTECH AIML
 ENGINEERING
 
 ARTIFICIAL INTELLIGENCE
+
+Artificial intelligence (AI) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as :
+learning, reasoning, problem-solving, perception, and decision-making.
