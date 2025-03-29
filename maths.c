@@ -5,4 +5,5 @@ printf("the substration is%d",a-b);
 printf("the multiplication is%d",a*b);
 printf("the modulus is%d",a%b);
 printf("the division is%d",a/b);
+printf("the floor division is%d",a//b);
 
