@@ -8,3 +8,9 @@ int power(int x, unsigned int y)
         return power(x, y / 2) * power(x, y / 2);
     return x * power(x, y / 2) * power(x, y / 2);
 }
+int order(int x)
+{
+    int n = 0;
+    while (x)
+    {
+        n++;
