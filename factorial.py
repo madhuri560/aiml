@@ -12,4 +12,10 @@ The factorial of a non-negative integer ( n ), denoted as ( n! ), is the product
 {
         int main()
         {
-            int n=5;
+            int factorial(int n)
+{
+    int res = 1, i;
+    for (i = 2; i <= n; i++)
+        res *= i;
+    return res;
+}
