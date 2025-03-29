@@ -17,3 +17,8 @@ void printFib(int n) {
     }
     int prev1 = 1;
     int prev2 = 0;
+      printf("%d ", prev2);
+    if (n == 1)
+        return;
+
+    printf("%d ", prev1);
