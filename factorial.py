@@ -9,8 +9,6 @@ Factorial number
 The factorial of a non-negative integer ( n ), denoted as ( n! ), is the product of all positive integers less than or equal to ( n ).
 
 #include<stdio.h>
-{
-        int main()
         {
             int factorial(int n)
 {
@@ -18,4 +16,8 @@ The factorial of a non-negative integer ( n ), denoted as ( n! ), is the product
     for (i = 2; i <= n; i++)
         res *= i;
     return res;
+
 }
+int main()
+{
+    int num = 5;
