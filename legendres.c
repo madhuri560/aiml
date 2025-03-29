@@ -7,3 +7,7 @@ int largestPower(int n, int p) {
 }
 int main() {
     int n = 10, p = 3;
+     printf("%d", largestPower(n, p));
+    return 0;
+}
+
