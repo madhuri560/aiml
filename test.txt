@@ -26,3 +26,4 @@ learning, reasoning, problem-solving, perception, and decision-making.
  ) and image labeling (used by Facebook, Apple's iPhoto and TikTok). The deployment of AI may be overseen by a Chief automation officer (CAO).
  Its now improving more and more now a days
  Artificial intelligence
+ Machine Learning
