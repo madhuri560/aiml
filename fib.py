@@ -22,3 +22,10 @@ void printFib(int n) {
         return;
 
     printf("%d ", prev1);
+     for (int i = 3; i <= n; i++) {
+        int curr = prev1 + prev2;
+        prev2 = prev1;
+        prev1 = curr;
+        printf("%d ", curr);
+    }
+}
