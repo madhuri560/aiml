@@ -3,3 +3,7 @@ int main() {
     printFib(n);
     return 0;
 }
+else {
+        if (b >= c)
+            printf("%d is the largest number.", b);
+        else
