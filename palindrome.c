@@ -17,3 +17,8 @@ int isPalindrome(int N) {
         return 0;
     return N == reverseNum(N);
 }
+int main() {
+    int N = 121;
+    if (isPalindrome(N)) {
+        printf("Yes\n");
+    }
