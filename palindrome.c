@@ -22,3 +22,9 @@ int main() {
     if (isPalindrome(N)) {
         printf("Yes\n");
     }
+     else {
+        printf("No\n");
+    }
+    return 0;
+}
+
