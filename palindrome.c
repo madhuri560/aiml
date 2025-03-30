@@ -9,4 +9,11 @@ int reverseNum(int N)
         rev = rev * 10 + dig;
         N /= 10;
     }
-    return rev
+    return rev;
+    }
+
+int isPalindrome(int N) {
+    if (N < 0)
+        return 0;
+    return N == reverseNum(N);
+}
