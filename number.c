@@ -23,4 +23,14 @@ void printOddNumbers(int start, int end)
     }
     printf("\n");
 }
+int main() {
+    int start, end;
+    
+    printf("Enter the start and end values: ");
+    scanf("%d %d", &start, &end);
+    
+    printEvenNumbers(start, end);
+    printOddNumbers(start, end);
 
+    return 0;
+}
