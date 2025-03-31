@@ -8,4 +8,8 @@ void printEvenNumbers(int start, int end)
         if (i % 2 == 0)
 	{
             printf("%d ", i);
+   }
+    }
+    printf("\n");
+}
 
