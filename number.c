@@ -12,4 +12,8 @@ void printEvenNumbers(int start, int end)
     }
     printf("\n");
 }
-
+void printOddNumbers(int start, int end)
+{
+    printf("Odd numbers between %d and %d are: ", start, end);
+    for (int i = start; i <= end; i++) 
+    {
