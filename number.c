@@ -17,3 +17,10 @@ void printOddNumbers(int start, int end)
     printf("Odd numbers between %d and %d are: ", start, end);
     for (int i = start; i <= end; i++) 
     {
+	     if (i % 2 != 0) {
+            printf("%d ", i);
+        }
+    }
+    printf("\n");
+}
+
