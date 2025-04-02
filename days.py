@@ -10,3 +10,7 @@ elif day_number == 2:
     print("Thursday")
 elif day_number == 5:
     print("Friday")
+    elif day_number == 6:
+    print("Saturday")
+elif day_number == 7:
+    print("Sunday")
