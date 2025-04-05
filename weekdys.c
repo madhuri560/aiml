@@ -23,3 +23,13 @@ switch(day) {
         case 6:
             printf("Saturday\n");
             break;
+	    case 7:
+            printf("Sunday\n");
+            break;
+        default:
+            printf("Invalid input! Please enter a number between 1 and 7.\n");
+            break;
+    }
+
+    return 0;
+}
