@@ -11,3 +11,10 @@ int main() {
     for (int i = 0; i < n; i++) {
         if (i <= 1)
             next = i;
+	 else {
+            next = first + second;
+            first = second;
+            second = next;
+        }
+        cout << next << " ";
+    }
