@@ -5,3 +5,9 @@ int main() {
     int n;
     cout << "Enter the number of terms: ";
     cin >> n;
+     int first = 0, second = 1, next;
+
+    cout << "Fibonacci Series: ";
+    for (int i = 0; i < n; i++) {
+        if (i <= 1)
+            next = i;
