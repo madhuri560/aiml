@@ -18,3 +18,7 @@ int main() {
         }
         cout << next << " ";
     }
+    cout << endl;
+
+    return 0;
+}
