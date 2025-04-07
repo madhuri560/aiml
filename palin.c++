@@ -15,5 +15,13 @@ class GFG {
             rev = rev + s.charAt(i);
         }
 
+        System.out.println("Reverse Number = " + rev);
+        if (s.equals(rev))
+            System.out.println("Palindrome = Yes");
+        else
+            System.out.println("Palindrome = No");
+    }
+}
+
 
  
