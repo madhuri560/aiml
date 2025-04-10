@@ -18,3 +18,21 @@ while True:
         if stack:
             print("Popped:", stack.pop())
         else:
+             print("Stack is empty.")
+    elif choice == '3':
+        if stack:
+            print("Top item:", stack[-1])
+        else:
+            print("Stack is empty.")
+    elif choice == '4':
+        if not stack:
+            print("Stack is empty.")
+        else:
+            print("Stack is not empty.")
+    elif choice == '5':
+        print("Stack:", stack)
+    elif choice == '6':
+        print("Bye!")
+        break
+    else:
+        print("Invalid choice.")
