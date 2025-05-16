@@ -4,7 +4,8 @@ CSE
 AMITY UNIVERSITY
 BTECH AIML
 ENGINEERING
-
+ASET
+AMITY SCHOOL OF ENGINEERING AND TECHNOLOGY
 ARTIFICIAL INTELLIGENCE
 
 Artificial intelligence (AI) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as :
