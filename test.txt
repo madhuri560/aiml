@@ -14,3 +14,4 @@ learning, reasoning, problem-solving, perception, and decision-making.
  High-profile applications of AI include advanced web search engines (e.g., Google Search); 
  recommendation systems (used by YouTube, Amazon, and Netflix); 
  AI is impacting now a days
+My contribution to the project.
